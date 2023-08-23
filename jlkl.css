@@ -1,0 +1,50 @@
+thead{
+    padding-left: 10px;
+    background-color: aliceblue;
+    font-size: medium;
+
+
+}
+td{
+    padding: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+table{
+    width: 80%;
+}
+    
+
+.danger{
+    background-color:tomato;
+
+}
+.sucess{
+    background-color: aqua;
+}
+.stai{
+    text-align: center;
+    background-color: bisque
+    ;
+}
+.suits{
+    background-color:yellowgreen;
+}
+nav{
+    padding: 10px;
+    
+}
+.ALION:hover{
+    background-color: crimson;
+    text-align: center;
+    
+
+}
+.ALION{
+
+    height: 5%;
+}
+div{
+    padding: 10px;
+}
